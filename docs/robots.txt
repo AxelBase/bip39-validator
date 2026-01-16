@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://axelbase.github.io/bip39-validator/sitemap.xml
+Sitemap: https://bip39-validator.vercel.app/sitemap.xml
